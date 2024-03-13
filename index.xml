@@ -33,6 +33,452 @@
     </item>
     
     <item>
+      <title>Git</title>
+      <link>https://example.com/post/postgit/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/postgit/</guid>
+      <description>&lt;h2 id=&#34;управление-версиями-с-помощью-git-основы-и-преимущества&#34;&gt;Управление версиями с помощью Git: Основы и Преимущества&lt;/h2&gt;
+&lt;h2 id=&#34;что-такое-git&#34;&gt;Что такое Git?&lt;/h2&gt;
+&lt;p&gt;Git - это распределенная система управления версиями, разработанная Линусом Торвальдсом для управления исходным кодом ядра Linux. Он стал незаменимым инструментом для множества разработчиков по всему миру благодаря своей гибкости, скорости и мощным возможностям.&lt;/p&gt;
+&lt;h2 id=&#34;основные-принципы-управления-версиями-с-git&#34;&gt;Основные принципы управления версиями с Git:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Репозиторий: Git хранит все версии проекта в специальной базе данных, называемой репозиторием. Репозиторий содержит всю историю изменений, ветки разработки и метаданные проекта.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ветвление и слияние: Одной из самых мощных возможностей Git является возможность создания веток разработки. Разработчики могут работать над различными аспектами проекта параллельно, а затем объединить изменения в одной или нескольких ветках.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Коммиты: Каждое изменение в коде фиксируется в виде коммита. Коммиты содержат описание внесенных изменений, автора, дату и уникальный идентификатор (хэш).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Игнорирование файлов: С помощью файла .gitignore можно указать файлы и директории, которые не должны быть отслеживаемы Git, что особенно полезно для временных или конфиденциальных файлов.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;преимущества-использования-git&#34;&gt;Преимущества использования Git:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;История изменений: Git сохраняет всю историю изменений проекта, позволяя в любой момент вернуться к предыдущей версии или просмотреть эволюцию кодовой базы.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Коллаборация: Git облегчает совместную работу над проектом. Разработчики могут работать параллельно над различными частями проекта, а затем интегрировать свои изменения.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ветвление: Возможность создавать ветки для различных задач или функциональностей позволяет организовать работу над проектом более эффективно.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Безопасность данных: Распределенная структура Git значительно увеличивает надежность хранения данных. Даже при повреждении локальной копии репозитория возможно восстановление из других копий.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;В заключение, использование Git для управления версиями не только упрощает процесс разработки, но также повышает эффективность работы, улучшает контроль изменений и обеспечивает безопасность данных. Git остается одним из наиболее популярных инструментов среди разработчиков благодаря его гибкости, мощным возможностям и огромному сообществу поддержки.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пост по прошедшей неделе</title>
+      <link>https://example.com/post/post1/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post1/</guid>
+      <description>&lt;h2 id=&#34;полет-в-грузию&#34;&gt;Полет в Грузию&lt;/h2&gt;
+&lt;p&gt;ГАМАРДЖОБАААА&lt;/p&gt;
+&lt;p&gt;Собрался, я значит навестить лучшего друга в Тбилиси и полетел, словом это был мой первый самостоятельный вылет за границу, я очень переживал, потому что некоторые моменты пойти не так, спойлер.. они и пошли не так :)&lt;/p&gt;
+&lt;p&gt;Начнем с того, что рейс был с пересадкой в Баку, пересадка длилась 1,5 часа, а вылет и прилет приходились на разные терминалы, в общем я боялся, что просто напросто не успею на пересадку. Как назло рейс из Москвы задержался, оно и не удивительно, метель была такая, что эту многотонную крылатую машину заносило как девятку на трассе. По итогу вместо положенных 1,5 часа остался час.&lt;/p&gt;
+&lt;p&gt;Быстро соориентировавшись я нашел брата по несчастью, который тоже опаздывал и мы с ним побежали сквозь все очереди на пересадку, благо к нам относились с пониманием и пропускали.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;вот я лечу&#34; srcset=&#34;
+               /post/post1/%D0%BF%D0%BE%D0%BB%D0%B5%D1%82_huef098724676cf3c18013553a6a50a81d_58690_3e93b497d43c539bd323e8e8dcbbf252.webp 400w,
+               /post/post1/%D0%BF%D0%BE%D0%BB%D0%B5%D1%82_huef098724676cf3c18013553a6a50a81d_58690_0b86b3622808905d98ba730bd3ad08b2.webp 760w,
+               /post/post1/%D0%BF%D0%BE%D0%BB%D0%B5%D1%82_huef098724676cf3c18013553a6a50a81d_58690_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/post1/%D0%BF%D0%BE%D0%BB%D0%B5%D1%82_huef098724676cf3c18013553a6a50a81d_58690_3e93b497d43c539bd323e8e8dcbbf252.webp&#34;
+               width=&#34;570&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;прилет-в-грузию&#34;&gt;Прилет в Грузию&lt;/h2&gt;
+&lt;p&gt;Я прилетел благополучно на комфортабельном эмбраере, вышел из самолета и пошел первом делом менять валюту, потом хотел купить местную симку, но цены такие конские, что я принял отчаянное решение ехать на такси без связи в центр и там купить симку, благо в Тбилиси работает Яндекс Такси, и я доехал без конских накруток, какаие полагаются всякому уважающему себя туристу.
+Нашел салон, купил симку по вполне себе приятной цене (раза в 4 выгодней за тариф, чем в аэропорту, я серьзно..).&lt;/p&gt;
+&lt;h2 id=&#34;скитания-по-тбилиси&#34;&gt;Скитания по Тбилиси&lt;/h2&gt;
+&lt;p&gt;Вы спросите, я прилетл же вроде к другу и даже лучшему на секундочку, почему меня никто не встретил. А все дело в том, что он человек трудящийся и по долгу службы не мог покинуть свой пост ранее, чем в 6 часов вечера, поэтому до этого времени я оказался поглощенным миссией исследовать данный город самостоятельно. Но я и не жаловался, самому было интересно везде полазить. Рассписывать, что я видел долго, мне несколько чуть-чуть лень, но скажу, город хороший, мне понравился, погода тоже жаловала московского ой.. кхм кхм пензенского, но в целом не важно, турЫста.
+Чтобы совсем вас не огорчать прикреплю парочку фотокарточек&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;это дом&#34; srcset=&#34;
+               /post/post1/%D0%B4%D0%BE%D0%BA%D0%B8%D0%BA_hu7e23164be7f93abcd098c01b6098a82f_174537_48f413061cd7aa30d72a1c23e34f43dc.webp 400w,
+               /post/post1/%D0%B4%D0%BE%D0%BA%D0%B8%D0%BA_hu7e23164be7f93abcd098c01b6098a82f_174537_42095875cef686bd2fc06761ac5bbacf.webp 760w,
+               /post/post1/%D0%B4%D0%BE%D0%BA%D0%B8%D0%BA_hu7e23164be7f93abcd098c01b6098a82f_174537_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/post1/%D0%B4%D0%BE%D0%BA%D0%B8%D0%BA_hu7e23164be7f93abcd098c01b6098a82f_174537_48f413061cd7aa30d72a1c23e34f43dc.webp&#34;
+               width=&#34;570&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;наверное дом&#34; srcset=&#34;
+               /post/post1/%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_hu448c6f47e109849a3f230664142aa74b_261187_59c4d82b1c56b177575f7f33c54db8ba.webp 400w,
+               /post/post1/%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_hu448c6f47e109849a3f230664142aa74b_261187_5dfbcfda4e018fba469a981b922f1ad7.webp 760w,
+               /post/post1/%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_hu448c6f47e109849a3f230664142aa74b_261187_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/post1/%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_hu448c6f47e109849a3f230664142aa74b_261187_59c4d82b1c56b177575f7f33c54db8ba.webp&#34;
+               width=&#34;570&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;домааа&#34; srcset=&#34;
+               /post/post1/%D0%B4%D0%BE%D0%BC%D0%B0_hu85686c6610e7ff5007464c925d9f5b0c_244519_f0062ce0d515587fb489043e65692973.webp 400w,
+               /post/post1/%D0%B4%D0%BE%D0%BC%D0%B0_hu85686c6610e7ff5007464c925d9f5b0c_244519_bed725cd6f0e8a0cdb47ed3fff8392b3.webp 760w,
+               /post/post1/%D0%B4%D0%BE%D0%BC%D0%B0_hu85686c6610e7ff5007464c925d9f5b0c_244519_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/post1/%D0%B4%D0%BE%D0%BC%D0%B0_hu85686c6610e7ff5007464c925d9f5b0c_244519_f0062ce0d515587fb489043e65692973.webp&#34;
+               width=&#34;570&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;красивое&#34; srcset=&#34;
+               /post/post1/%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C_hu440c453b590b0d3853461f0ba3203cd2_211252_c42c9c4012ee89476e8e3064819a13d8.webp 400w,
+               /post/post1/%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C_hu440c453b590b0d3853461f0ba3203cd2_211252_91c659dc91bca894f57dc62d43f308c0.webp 760w,
+               /post/post1/%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C_hu440c453b590b0d3853461f0ba3203cd2_211252_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/post1/%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C_hu440c453b590b0d3853461f0ba3203cd2_211252_c42c9c4012ee89476e8e3064819a13d8.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;самое-поразительное&#34;&gt;Самое поразительное&lt;/h2&gt;
+&lt;p&gt;Все-таки еще опишу, что меня удивило по пунктам&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Пёсили (они повсюду, даже в здании аэропрта)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;собака&#34; srcset=&#34;
+               /post/post1/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B01_hu3a2b75e55ec88e05d8ae6426a421b536_172415_14ae8e1ccf11fce2ab6d8dfa56f6aa02.webp 400w,
+               /post/post1/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B01_hu3a2b75e55ec88e05d8ae6426a421b536_172415_52b41d1ee489b481e747f29e23a22392.webp 760w,
+               /post/post1/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B01_hu3a2b75e55ec88e05d8ae6426a421b536_172415_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/post1/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B01_hu3a2b75e55ec88e05d8ae6426a421b536_172415_14ae8e1ccf11fce2ab6d8dfa56f6aa02.webp&#34;
+               width=&#34;570&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;и еще собака&#34; srcset=&#34;
+               /post/post1/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B04_hu24a84890b72c0f1f7e02d303bb03bc5a_232472_afcc2568bb32e336b71518857a3ae41c.webp 400w,
+               /post/post1/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B04_hu24a84890b72c0f1f7e02d303bb03bc5a_232472_6d54cf9312d850af34e37f01a7c44d2b.webp 760w,
+               /post/post1/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B04_hu24a84890b72c0f1f7e02d303bb03bc5a_232472_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/post1/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B04_hu24a84890b72c0f1f7e02d303bb03bc5a_232472_afcc2568bb32e336b71518857a3ae41c.webp&#34;
+               width=&#34;570&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;а это сын собаки&#34; srcset=&#34;
+               /post/post1/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B03_huc901898ca25b6d4f77690a0652516acd_308455_0fd4767a89411eb2a0502e807726e0d6.webp 400w,
+               /post/post1/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B03_huc901898ca25b6d4f77690a0652516acd_308455_6355a6818127baff10acc5dd94a5cd13.webp 760w,
+               /post/post1/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B03_huc901898ca25b6d4f77690a0652516acd_308455_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/post1/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B03_huc901898ca25b6d4f77690a0652516acd_308455_0fd4767a89411eb2a0502e807726e0d6.webp&#34;
+               width=&#34;570&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;в аэропорту ваще собака&#34; srcset=&#34;
+               /post/post1/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B02_hu985f9314e7b87db580eb0ee466d194ca_277751_60ee1ecffa46b871008acb4ac68b911f.webp 400w,
+               /post/post1/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B02_hu985f9314e7b87db580eb0ee466d194ca_277751_c2fccd6a3c99a3b8a137ec6e217f3812.webp 760w,
+               /post/post1/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B02_hu985f9314e7b87db580eb0ee466d194ca_277751_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/post1/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B02_hu985f9314e7b87db580eb0ee466d194ca_277751_60ee1ecffa46b871008acb4ac68b911f.webp&#34;
+               width=&#34;570&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Метро, оно как американские горки&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;паровоз метра, кстати там номерные ходят, только модифицированные&#34; srcset=&#34;
+               /post/post1/%D0%BC%D0%B5%D1%82%D1%80%D0%B0%D0%B0_hu9fe106d53bdf17e7a2296fc8d500715e_107612_55799d8d0dc3f6cfa86c464e62858b79.webp 400w,
+               /post/post1/%D0%BC%D0%B5%D1%82%D1%80%D0%B0%D0%B0_hu9fe106d53bdf17e7a2296fc8d500715e_107612_29395295497f26758982b604f4b95319.webp 760w,
+               /post/post1/%D0%BC%D0%B5%D1%82%D1%80%D0%B0%D0%B0_hu9fe106d53bdf17e7a2296fc8d500715e_107612_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/post1/%D0%BC%D0%B5%D1%82%D1%80%D0%B0%D0%B0_hu9fe106d53bdf17e7a2296fc8d500715e_107612_55799d8d0dc3f6cfa86c464e62858b79.webp&#34;
+               width=&#34;570&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;внутри метра&#34; srcset=&#34;
+               /post/post1/%D0%BC%D0%B5%D1%82%D1%80%D0%B0_hua9980993afa7989ffb7a60ff030c58f1_152784_1dde4b455c29c407b86ac91292750921.webp 400w,
+               /post/post1/%D0%BC%D0%B5%D1%82%D1%80%D0%B0_hua9980993afa7989ffb7a60ff030c58f1_152784_aa1bff31c256e044d1893014e3acd9d6.webp 760w,
+               /post/post1/%D0%BC%D0%B5%D1%82%D1%80%D0%B0_hua9980993afa7989ffb7a60ff030c58f1_152784_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/post1/%D0%BC%D0%B5%D1%82%D1%80%D0%B0_hua9980993afa7989ffb7a60ff030c58f1_152784_1dde4b455c29c407b86ac91292750921.webp&#34;
+               width=&#34;570&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;На табло вместо времени прибытия автобуса, пишется количество остановок, котрорых ему осталочь до твоих&lt;/li&gt;
+&lt;li&gt;Граффити повсюду, не все приличные, но много красивых&lt;/li&gt;
+&lt;li&gt;дранники в макдональдсе, и кола creations по вкусу что-то странное, но того не стоит, чисто на раз&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;вкусно и точка&#34; srcset=&#34;
+               /post/post1/%D0%BC%D0%B0%D0%BA_hu6f1fd526b2972b501197b46f2b969c43_133412_486df93d4463a6f8cce6b5b76972ad04.webp 400w,
+               /post/post1/%D0%BC%D0%B0%D0%BA_hu6f1fd526b2972b501197b46f2b969c43_133412_ecac6fe6120e1c6816fa5fab11d7e770.webp 760w,
+               /post/post1/%D0%BC%D0%B0%D0%BA_hu6f1fd526b2972b501197b46f2b969c43_133412_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/post1/%D0%BC%D0%B0%D0%BA_hu6f1fd526b2972b501197b46f2b969c43_133412_486df93d4463a6f8cce6b5b76972ad04.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;лимонад Натахтари стоит копейки и авторитетно заявляю, это самый вкусный лимонад&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;натахитарахи&#34; srcset=&#34;
+               /post/post1/%D0%BD%D0%B0%D1%82%D0%B0%D1%85%D1%82%D0%B0%D1%80%D0%B8_hua56ea9019a396334e526ae07a4c63c18_76383_26250cb8f0a66bd2dcde669892688754.webp 400w,
+               /post/post1/%D0%BD%D0%B0%D1%82%D0%B0%D1%85%D1%82%D0%B0%D1%80%D0%B8_hua56ea9019a396334e526ae07a4c63c18_76383_7c5fd59ccde386aed1b70e8f72d2c511.webp 760w,
+               /post/post1/%D0%BD%D0%B0%D1%82%D0%B0%D1%85%D1%82%D0%B0%D1%80%D0%B8_hua56ea9019a396334e526ae07a4c63c18_76383_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/post1/%D0%BD%D0%B0%D1%82%D0%B0%D1%85%D1%82%D0%B0%D1%80%D0%B8_hua56ea9019a396334e526ae07a4c63c18_76383_26250cb8f0a66bd2dcde669892688754.webp&#34;
+               width=&#34;570&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;нет ограничения по времени продажи алкогольной продукции&lt;/li&gt;
+&lt;li&gt;средняя цена хинкалей 60 раблс, в переводе на нашу валюту&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Blog with Jupyter Notebooks!</title>
       <link>https://example.com/post/blog-with-jupyter/</link>
       <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
@@ -263,7 +709,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-124768953&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-964285371&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -273,7 +719,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-124768953&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-964285371&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
