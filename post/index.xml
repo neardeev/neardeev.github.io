@@ -2,21 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Academic</title>
-    <link>https://example.com/post/</link>
-      <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/post/</link>
+      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
-      <link>https://example.com/post/</link>
+      <link>http://localhost:1313/post/</link>
     </image>
     
     <item>
+      <title>Пост по прошедшей неделе</title>
+      <link>http://localhost:1313/post/postnew/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/postnew/</guid>
+      <description>&lt;h2 id=&#34;прошедшая-неделя-жизнь-студента-математика&#34;&gt;прошедшая неделя: Жизнь студента-математика&lt;/h2&gt;
+&lt;h2 id=&#34;учеба&#34;&gt;Учеба&lt;/h2&gt;
+&lt;p&gt;На этой неделе было много учебы, как обычно. Погруженный в мир математики, я занимался различными темами: от алгебры и геометрии до анализа и дискретной математики. Решал задачи, готовился к предстоящим экзаменам и контрольным работам. Не смотря на то, что иногда математика может быть сложной, каждая решенная задача приносит удовлетворение и радость.&lt;/p&gt;
+&lt;h2 id=&#34;университет&#34;&gt;Университет&lt;/h2&gt;
+&lt;p&gt;Посещение лекций и семинаров было обязательным. Мы изучали новые концепции, обсуждали интересные проблемы и работали в группах над проектами. Благодаря командной работе удалось решить несколько сложных задач и представить результаты перед преподавателями и одногруппниками.&lt;/p&gt;
+&lt;h2 id=&#34;исследования&#34;&gt;Исследования&lt;/h2&gt;
+&lt;p&gt;Моя неделя также была насыщена математическими исследованиями. Проводил эксперименты, анализировал данные и работал над научным проектом, который планирую представить на конференцию по математике в ближайшем будущем.&lt;/p&gt;
+&lt;h2 id=&#34;отдых&#34;&gt;Отдых&lt;/h2&gt;
+&lt;p&gt;Несмотря на интенсивный учебный график, нашел время для отдыха и релаксации. Чтобы развеяться после учебы, занимался спортом, общался с друзьями, смотрел интересные фильмы и читал книги не только по математике, но и по другим интересным темам.&lt;/p&gt;
+&lt;h2 id=&#34;выводы&#34;&gt;Выводы&lt;/h2&gt;
+&lt;p&gt;Прошедшая неделя была насыщенной и интересной. Жизнь студента-математика наполнена учебой, исследованиями, общением и отдыхом. Каждый день приносит новые вызовы и возможности для роста и саморазвития, что делает этот путь увлекательным и захватывающим. Впереди еще много интересных задач и проектов, и я с нетерпением жду новых математических открытий и достижений.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки разметки. LaTeX</title>
+      <link>http://localhost:1313/post/postlat/</link>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/postlat/</guid>
+      <description>&lt;p&gt;##Языки разметки: Введение в LaTeX&lt;/p&gt;
+&lt;p&gt;LaTeX обеспечивает авторов документов удобным способом создания красиво оформленных и структурированных текстов. Вот некоторые из его преимуществ:&lt;/p&gt;
+&lt;p&gt;##Преимущества LaTeX&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Профессиональное оформление&lt;/em&gt;: LaTeX позволяет авторам создавать документы профессионального вида с минимумом усилий. С его помощью можно легко форматировать текст, добавлять математические формулы, таблицы, изображения и многое другое.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Кроссплатформенность&lt;/em&gt;: LaTeX доступен на многих операционных системах, что делает его удобным инструментом для работы на различных устройствах.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Математические возможности&lt;/em&gt;: LaTeX известен своими мощными средствами для создания математических формул и уравнений. Многие ученые, математики и инженеры предпочитают использовать LaTeX именно из-за его математических возможностей.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;##Использование LaTeX&lt;/p&gt;
+&lt;p&gt;Для создания документа в LaTeX нужно написать исходный код, который затем компилируется в желаемый формат (например, PDF). LaTeX использует команды и окружения для управления структурой документа и его оформлением.&lt;/p&gt;
+&lt;p&gt;##Заключение&lt;/p&gt;
+&lt;p&gt;LaTeX остается одним из наиболее мощных и гибких языков разметки в мире. Его возможности делают его незаменимым инструментом для создания научных статей, технической документации, книг и других видов документов, требующих продвинутой верстки и оформления.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Git</title>
-      <link>https://example.com/post/postgit/</link>
+      <link>http://localhost:1313/post/postgit/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/postgit/</guid>
+      <guid>http://localhost:1313/post/postgit/</guid>
       <description>&lt;h2 id=&#34;управление-версиями-с-помощью-git-основы-и-преимущества&#34;&gt;Управление версиями с помощью Git: Основы и Преимущества&lt;/h2&gt;
 &lt;h2 id=&#34;что-такое-git&#34;&gt;Что такое Git?&lt;/h2&gt;
 &lt;p&gt;Git - это распределенная система управления версиями, разработанная Линусом Торвальдсом для управления исходным кодом ядра Linux. Он стал незаменимым инструментом для множества разработчиков по всему миру благодаря своей гибкости, скорости и мощным возможностям.&lt;/p&gt;
@@ -57,9 +102,9 @@
     
     <item>
       <title>Пост по прошедшей неделе</title>
-      <link>https://example.com/post/post1/</link>
+      <link>http://localhost:1313/post/post1/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post1/</guid>
+      <guid>http://localhost:1313/post/post1/</guid>
       <description>&lt;h2 id=&#34;полет-в-грузию&#34;&gt;Полет в Грузию&lt;/h2&gt;
 &lt;p&gt;ГАМАРДЖОБАААА&lt;/p&gt;
 &lt;p&gt;Собрался, я значит навестить лучшего друга в Тбилиси и полетел, словом это был мой первый самостоятельный вылет за границу, я очень переживал, потому что некоторые моменты пойти не так, спойлер.. они и пошли не так :)&lt;/p&gt;
@@ -84,10 +129,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;вот я лечу&#34; srcset=&#34;
-               /post/post1/%D0%BF%D0%BE%D0%BB%D0%B5%D1%82_huef098724676cf3c18013553a6a50a81d_58690_b12870290f43c93a7f391afb59461554.webp 400w,
+               /post/post1/%D0%BF%D0%BE%D0%BB%D0%B5%D1%82_huef098724676cf3c18013553a6a50a81d_58690_3e93b497d43c539bd323e8e8dcbbf252.webp 400w,
                /post/post1/%D0%BF%D0%BE%D0%BB%D0%B5%D1%82_huef098724676cf3c18013553a6a50a81d_58690_0b86b3622808905d98ba730bd3ad08b2.webp 760w,
                /post/post1/%D0%BF%D0%BE%D0%BB%D0%B5%D1%82_huef098724676cf3c18013553a6a50a81d_58690_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/post1/%D0%BF%D0%BE%D0%BB%D0%B5%D1%82_huef098724676cf3c18013553a6a50a81d_58690_b12870290f43c93a7f391afb59461554.webp&#34;
+               src=&#34;http://localhost:1313/post/post1/%D0%BF%D0%BE%D0%BB%D0%B5%D1%82_huef098724676cf3c18013553a6a50a81d_58690_3e93b497d43c539bd323e8e8dcbbf252.webp&#34;
                width=&#34;570&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -118,10 +163,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;это дом&#34; srcset=&#34;
-               /post/post1/%D0%B4%D0%BE%D0%BA%D0%B8%D0%BA_hu7e23164be7f93abcd098c01b6098a82f_174537_458c603e043a56f09b4f72f6307c43f5.webp 400w,
+               /post/post1/%D0%B4%D0%BE%D0%BA%D0%B8%D0%BA_hu7e23164be7f93abcd098c01b6098a82f_174537_48f413061cd7aa30d72a1c23e34f43dc.webp 400w,
                /post/post1/%D0%B4%D0%BE%D0%BA%D0%B8%D0%BA_hu7e23164be7f93abcd098c01b6098a82f_174537_42095875cef686bd2fc06761ac5bbacf.webp 760w,
                /post/post1/%D0%B4%D0%BE%D0%BA%D0%B8%D0%BA_hu7e23164be7f93abcd098c01b6098a82f_174537_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/post1/%D0%B4%D0%BE%D0%BA%D0%B8%D0%BA_hu7e23164be7f93abcd098c01b6098a82f_174537_458c603e043a56f09b4f72f6307c43f5.webp&#34;
+               src=&#34;http://localhost:1313/post/post1/%D0%B4%D0%BE%D0%BA%D0%B8%D0%BA_hu7e23164be7f93abcd098c01b6098a82f_174537_48f413061cd7aa30d72a1c23e34f43dc.webp&#34;
                width=&#34;570&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -146,10 +191,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;наверное дом&#34; srcset=&#34;
-               /post/post1/%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_hu448c6f47e109849a3f230664142aa74b_261187_9c64977c298e873d7fe83e9f3bc28aee.webp 400w,
+               /post/post1/%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_hu448c6f47e109849a3f230664142aa74b_261187_59c4d82b1c56b177575f7f33c54db8ba.webp 400w,
                /post/post1/%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_hu448c6f47e109849a3f230664142aa74b_261187_5dfbcfda4e018fba469a981b922f1ad7.webp 760w,
                /post/post1/%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_hu448c6f47e109849a3f230664142aa74b_261187_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/post1/%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_hu448c6f47e109849a3f230664142aa74b_261187_9c64977c298e873d7fe83e9f3bc28aee.webp&#34;
+               src=&#34;http://localhost:1313/post/post1/%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_hu448c6f47e109849a3f230664142aa74b_261187_59c4d82b1c56b177575f7f33c54db8ba.webp&#34;
                width=&#34;570&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -174,10 +219,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;домааа&#34; srcset=&#34;
-               /post/post1/%D0%B4%D0%BE%D0%BC%D0%B0_hu85686c6610e7ff5007464c925d9f5b0c_244519_2e857bc9a5a028a8a08451c58fcb2a9e.webp 400w,
+               /post/post1/%D0%B4%D0%BE%D0%BC%D0%B0_hu85686c6610e7ff5007464c925d9f5b0c_244519_f0062ce0d515587fb489043e65692973.webp 400w,
                /post/post1/%D0%B4%D0%BE%D0%BC%D0%B0_hu85686c6610e7ff5007464c925d9f5b0c_244519_bed725cd6f0e8a0cdb47ed3fff8392b3.webp 760w,
                /post/post1/%D0%B4%D0%BE%D0%BC%D0%B0_hu85686c6610e7ff5007464c925d9f5b0c_244519_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/post1/%D0%B4%D0%BE%D0%BC%D0%B0_hu85686c6610e7ff5007464c925d9f5b0c_244519_2e857bc9a5a028a8a08451c58fcb2a9e.webp&#34;
+               src=&#34;http://localhost:1313/post/post1/%D0%B4%D0%BE%D0%BC%D0%B0_hu85686c6610e7ff5007464c925d9f5b0c_244519_f0062ce0d515587fb489043e65692973.webp&#34;
                width=&#34;570&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -202,10 +247,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;красивое&#34; srcset=&#34;
-               /post/post1/%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C_hu440c453b590b0d3853461f0ba3203cd2_211252_b049868acf0a8969a688c226851f5635.webp 400w,
+               /post/post1/%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C_hu440c453b590b0d3853461f0ba3203cd2_211252_c42c9c4012ee89476e8e3064819a13d8.webp 400w,
                /post/post1/%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C_hu440c453b590b0d3853461f0ba3203cd2_211252_91c659dc91bca894f57dc62d43f308c0.webp 760w,
                /post/post1/%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C_hu440c453b590b0d3853461f0ba3203cd2_211252_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/post1/%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C_hu440c453b590b0d3853461f0ba3203cd2_211252_b049868acf0a8969a688c226851f5635.webp&#34;
+               src=&#34;http://localhost:1313/post/post1/%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C_hu440c453b590b0d3853461f0ba3203cd2_211252_c42c9c4012ee89476e8e3064819a13d8.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -235,10 +280,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;собака&#34; srcset=&#34;
-               /post/post1/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B01_hu3a2b75e55ec88e05d8ae6426a421b536_172415_c78cee337a51f6821847f566f8e2bdd0.webp 400w,
+               /post/post1/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B01_hu3a2b75e55ec88e05d8ae6426a421b536_172415_14ae8e1ccf11fce2ab6d8dfa56f6aa02.webp 400w,
                /post/post1/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B01_hu3a2b75e55ec88e05d8ae6426a421b536_172415_52b41d1ee489b481e747f29e23a22392.webp 760w,
                /post/post1/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B01_hu3a2b75e55ec88e05d8ae6426a421b536_172415_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/post1/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B01_hu3a2b75e55ec88e05d8ae6426a421b536_172415_c78cee337a51f6821847f566f8e2bdd0.webp&#34;
+               src=&#34;http://localhost:1313/post/post1/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B01_hu3a2b75e55ec88e05d8ae6426a421b536_172415_14ae8e1ccf11fce2ab6d8dfa56f6aa02.webp&#34;
                width=&#34;570&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -263,10 +308,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;и еще собака&#34; srcset=&#34;
-               /post/post1/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B04_hu24a84890b72c0f1f7e02d303bb03bc5a_232472_1e4773e89c744122477ad36013c946e1.webp 400w,
+               /post/post1/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B04_hu24a84890b72c0f1f7e02d303bb03bc5a_232472_afcc2568bb32e336b71518857a3ae41c.webp 400w,
                /post/post1/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B04_hu24a84890b72c0f1f7e02d303bb03bc5a_232472_6d54cf9312d850af34e37f01a7c44d2b.webp 760w,
                /post/post1/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B04_hu24a84890b72c0f1f7e02d303bb03bc5a_232472_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/post1/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B04_hu24a84890b72c0f1f7e02d303bb03bc5a_232472_1e4773e89c744122477ad36013c946e1.webp&#34;
+               src=&#34;http://localhost:1313/post/post1/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B04_hu24a84890b72c0f1f7e02d303bb03bc5a_232472_afcc2568bb32e336b71518857a3ae41c.webp&#34;
                width=&#34;570&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -291,10 +336,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;а это сын собаки&#34; srcset=&#34;
-               /post/post1/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B03_huc901898ca25b6d4f77690a0652516acd_308455_f9ed69816fcda324734a0bce78612cd3.webp 400w,
+               /post/post1/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B03_huc901898ca25b6d4f77690a0652516acd_308455_0fd4767a89411eb2a0502e807726e0d6.webp 400w,
                /post/post1/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B03_huc901898ca25b6d4f77690a0652516acd_308455_6355a6818127baff10acc5dd94a5cd13.webp 760w,
                /post/post1/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B03_huc901898ca25b6d4f77690a0652516acd_308455_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/post1/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B03_huc901898ca25b6d4f77690a0652516acd_308455_f9ed69816fcda324734a0bce78612cd3.webp&#34;
+               src=&#34;http://localhost:1313/post/post1/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B03_huc901898ca25b6d4f77690a0652516acd_308455_0fd4767a89411eb2a0502e807726e0d6.webp&#34;
                width=&#34;570&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -319,10 +364,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;в аэропорту ваще собака&#34; srcset=&#34;
-               /post/post1/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B02_hu985f9314e7b87db580eb0ee466d194ca_277751_4923a252a761efe1697ac058efb11044.webp 400w,
+               /post/post1/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B02_hu985f9314e7b87db580eb0ee466d194ca_277751_60ee1ecffa46b871008acb4ac68b911f.webp 400w,
                /post/post1/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B02_hu985f9314e7b87db580eb0ee466d194ca_277751_c2fccd6a3c99a3b8a137ec6e217f3812.webp 760w,
                /post/post1/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B02_hu985f9314e7b87db580eb0ee466d194ca_277751_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/post1/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B02_hu985f9314e7b87db580eb0ee466d194ca_277751_4923a252a761efe1697ac058efb11044.webp&#34;
+               src=&#34;http://localhost:1313/post/post1/%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B02_hu985f9314e7b87db580eb0ee466d194ca_277751_60ee1ecffa46b871008acb4ac68b911f.webp&#34;
                width=&#34;570&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -350,10 +395,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;паровоз метра, кстати там номерные ходят, только модифицированные&#34; srcset=&#34;
-               /post/post1/%D0%BC%D0%B5%D1%82%D1%80%D0%B0%D0%B0_hu9fe106d53bdf17e7a2296fc8d500715e_107612_4d65f866294905a237731c1c105de486.webp 400w,
+               /post/post1/%D0%BC%D0%B5%D1%82%D1%80%D0%B0%D0%B0_hu9fe106d53bdf17e7a2296fc8d500715e_107612_55799d8d0dc3f6cfa86c464e62858b79.webp 400w,
                /post/post1/%D0%BC%D0%B5%D1%82%D1%80%D0%B0%D0%B0_hu9fe106d53bdf17e7a2296fc8d500715e_107612_29395295497f26758982b604f4b95319.webp 760w,
                /post/post1/%D0%BC%D0%B5%D1%82%D1%80%D0%B0%D0%B0_hu9fe106d53bdf17e7a2296fc8d500715e_107612_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/post1/%D0%BC%D0%B5%D1%82%D1%80%D0%B0%D0%B0_hu9fe106d53bdf17e7a2296fc8d500715e_107612_4d65f866294905a237731c1c105de486.webp&#34;
+               src=&#34;http://localhost:1313/post/post1/%D0%BC%D0%B5%D1%82%D1%80%D0%B0%D0%B0_hu9fe106d53bdf17e7a2296fc8d500715e_107612_55799d8d0dc3f6cfa86c464e62858b79.webp&#34;
                width=&#34;570&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -378,10 +423,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;внутри метра&#34; srcset=&#34;
-               /post/post1/%D0%BC%D0%B5%D1%82%D1%80%D0%B0_hua9980993afa7989ffb7a60ff030c58f1_152784_204610b26ba61c46de7325b06942110d.webp 400w,
+               /post/post1/%D0%BC%D0%B5%D1%82%D1%80%D0%B0_hua9980993afa7989ffb7a60ff030c58f1_152784_1dde4b455c29c407b86ac91292750921.webp 400w,
                /post/post1/%D0%BC%D0%B5%D1%82%D1%80%D0%B0_hua9980993afa7989ffb7a60ff030c58f1_152784_aa1bff31c256e044d1893014e3acd9d6.webp 760w,
                /post/post1/%D0%BC%D0%B5%D1%82%D1%80%D0%B0_hua9980993afa7989ffb7a60ff030c58f1_152784_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/post1/%D0%BC%D0%B5%D1%82%D1%80%D0%B0_hua9980993afa7989ffb7a60ff030c58f1_152784_204610b26ba61c46de7325b06942110d.webp&#34;
+               src=&#34;http://localhost:1313/post/post1/%D0%BC%D0%B5%D1%82%D1%80%D0%B0_hua9980993afa7989ffb7a60ff030c58f1_152784_1dde4b455c29c407b86ac91292750921.webp&#34;
                width=&#34;570&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -411,10 +456,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;вкусно и точка&#34; srcset=&#34;
-               /post/post1/%D0%BC%D0%B0%D0%BA_hu6f1fd526b2972b501197b46f2b969c43_133412_5e1cf8877dd3bbb40ebdd3f7cca3d1c8.webp 400w,
+               /post/post1/%D0%BC%D0%B0%D0%BA_hu6f1fd526b2972b501197b46f2b969c43_133412_486df93d4463a6f8cce6b5b76972ad04.webp 400w,
                /post/post1/%D0%BC%D0%B0%D0%BA_hu6f1fd526b2972b501197b46f2b969c43_133412_ecac6fe6120e1c6816fa5fab11d7e770.webp 760w,
                /post/post1/%D0%BC%D0%B0%D0%BA_hu6f1fd526b2972b501197b46f2b969c43_133412_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/post1/%D0%BC%D0%B0%D0%BA_hu6f1fd526b2972b501197b46f2b969c43_133412_5e1cf8877dd3bbb40ebdd3f7cca3d1c8.webp&#34;
+               src=&#34;http://localhost:1313/post/post1/%D0%BC%D0%B0%D0%BA_hu6f1fd526b2972b501197b46f2b969c43_133412_486df93d4463a6f8cce6b5b76972ad04.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -442,10 +487,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;натахитарахи&#34; srcset=&#34;
-               /post/post1/%D0%BD%D0%B0%D1%82%D0%B0%D1%85%D1%82%D0%B0%D1%80%D0%B8_hua56ea9019a396334e526ae07a4c63c18_76383_67878b33407a099f94530c15641fa2f4.webp 400w,
+               /post/post1/%D0%BD%D0%B0%D1%82%D0%B0%D1%85%D1%82%D0%B0%D1%80%D0%B8_hua56ea9019a396334e526ae07a4c63c18_76383_26250cb8f0a66bd2dcde669892688754.webp 400w,
                /post/post1/%D0%BD%D0%B0%D1%82%D0%B0%D1%85%D1%82%D0%B0%D1%80%D0%B8_hua56ea9019a396334e526ae07a4c63c18_76383_7c5fd59ccde386aed1b70e8f72d2c511.webp 760w,
                /post/post1/%D0%BD%D0%B0%D1%82%D0%B0%D1%85%D1%82%D0%B0%D1%80%D0%B8_hua56ea9019a396334e526ae07a4c63c18_76383_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/post/post1/%D0%BD%D0%B0%D1%82%D0%B0%D1%85%D1%82%D0%B0%D1%80%D0%B8_hua56ea9019a396334e526ae07a4c63c18_76383_67878b33407a099f94530c15641fa2f4.webp&#34;
+               src=&#34;http://localhost:1313/post/post1/%D0%BD%D0%B0%D1%82%D0%B0%D1%85%D1%82%D0%B0%D1%80%D0%B8_hua56ea9019a396334e526ae07a4c63c18_76383_26250cb8f0a66bd2dcde669892688754.webp&#34;
                width=&#34;570&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -460,9 +505,9 @@
     
     <item>
       <title>Blog with Jupyter Notebooks!</title>
-      <link>https://example.com/post/blog-with-jupyter/</link>
+      <link>http://localhost:1313/post/blog-with-jupyter/</link>
       <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/blog-with-jupyter/</guid>
+      <guid>http://localhost:1313/post/blog-with-jupyter/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
@@ -484,10 +529,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;png&#34; srcset=&#34;
-               /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_73179593afc46954cb4c21418984f7f4.webp 400w,
+               /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp 400w,
                /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_6b76da17c04a40aee4c1c633206f8065.webp 760w,
                /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_73179593afc46954cb4c21418984f7f4.webp&#34;
+               src=&#34;http://localhost:1313/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp&#34;
                width=&#34;601&#34;
                height=&#34;203&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -507,9 +552,9 @@
     
     <item>
       <title>Welcome to Hugo Blox Builder, the website builder for Hugo</title>
-      <link>https://example.com/post/getting-started/</link>
+      <link>http://localhost:1313/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
+      <guid>http://localhost:1313/post/getting-started/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
@@ -587,9 +632,9 @@
     
     <item>
       <title>Writing technical content in Markdown</title>
-      <link>https://example.com/post/writing-technical-content/</link>
+      <link>http://localhost:1313/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/writing-technical-content/</guid>
+      <guid>http://localhost:1313/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Hugo Blox Builder is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p&gt;
@@ -689,7 +734,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-384152967&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-139462785&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -699,7 +744,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-384152967&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-139462785&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
