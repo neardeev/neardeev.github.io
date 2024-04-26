@@ -11,23 +11,31 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/academic/</loc>
-    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/categories/</loc>
-    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/category/demo/</loc>
-    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/post/</loc>
-    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tags/</loc>
-    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/postotchet/</loc>
+    <lastmod>2024-04-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/postggg/</loc>
+    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/post/postnew/</loc>
